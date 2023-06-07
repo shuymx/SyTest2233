@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'SyTest2233'
 ```
 
-## Author
-
-1071615606@qq.com, wbshuyang@szlanyou.com
-
 ## License
 
 SyTest2233 is available under the MIT license. See the LICENSE file for more info.
