@@ -1,0 +1,6 @@
+framework module Pods_SyTest2233_Example {
+  umbrella header "Pods-SyTest2233_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

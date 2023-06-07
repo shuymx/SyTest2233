@@ -1,0 +1,6 @@
+framework module SyTest2233 {
+  umbrella header "SyTest2233-umbrella.h"
+
+  export *
+  module * { export * }
+}
