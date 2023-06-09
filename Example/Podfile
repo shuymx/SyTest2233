@@ -1,3 +1,4 @@
+install! 'cocoapods', :generate_multiple_pod_projects => true, :disable_input_output_paths => true
 use_frameworks!
 
 platform :ios, '10.0'

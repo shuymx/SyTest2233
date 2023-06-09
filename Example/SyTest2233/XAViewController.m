@@ -7,6 +7,7 @@
 //
 
 #import "XAViewController.h"
+#import "SyTest2233/a.h"
 
 @interface XAViewController ()
 
@@ -17,6 +18,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
+    a *aa = [[a alloc]init];
+    
 	// Do any additional setup after loading the view, typically from a nib.
 }
 

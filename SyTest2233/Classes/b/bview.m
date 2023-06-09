@@ -1,14 +1,13 @@
 //
-//  b.m
-//  SyTest2233
+//  bview.m
+//  SyTest2233-SyTest2233
 //
-//  Created by edy on 2023/6/7.
+//  Created by edy on 2023/6/9.
 //
 
-#import "b.h"
-#import "a.h"
+#import "bview.h"
 
-@implementation b
+@implementation bview
 
 /*
 // Only override drawRect: if you perform custom drawing.
